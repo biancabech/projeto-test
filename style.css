@@ -8,3 +8,13 @@ h1{
   text-align: center;
   margin: top 50em;
 }
+
+div {
+  text-align: center;
+}
+
+div img {
+  border-color: rgb(31, 198, 228);
+  border-radius: 20%;
+  
+}
