@@ -1,5 +1,5 @@
 * {
-  background-color: rgb(14, 40, 4);
+  background-color: rgb(110, 127, 103);
 }
 
 h1{
@@ -16,5 +16,15 @@ div {
 div img {
   border-color: rgb(31, 198, 228);
   border-radius: 20%;
-  
+  width: 20%;
+}
+
+footer {
+  width: 100%;
+  height: 15%;
+  position: absolute;
+  bottom: 0;
+  background-color: rgb(8, 8, 7);
+  text-align: center;
+  color: white;
 }
